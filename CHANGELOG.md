@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
+## 1.2.0
+- Drop support for PHP <8.1
+
 ## 1.1.0
 - Remove explicit dependency to `laminas/laminas-dependency-plugin` as it should be a project
 dependency rather than a library dependency
